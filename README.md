@@ -1,3 +1,3 @@
 # first
-this is my first repo
-Auther - Shreyank
+this is my first repo.
+Author - Shreyank
